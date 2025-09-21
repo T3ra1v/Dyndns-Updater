@@ -1,0 +1,54 @@
+{
+  "domains": [
+    {
+      "hostname": "Example.de",
+      "username": "Example.de",
+      "password": "****",
+      "use_current_ip": true,
+      "manual_ip": "",
+      "interval": 600,
+      "auto": false,
+      "active": false
+    },
+    {
+      "hostname": "",
+      "username": "",
+      "password": "",
+      "use_current_ip": true,
+      "manual_ip": "",
+      "interval": 600,
+      "auto": false,
+      "active": false
+    },
+    {
+      "hostname": "",
+      "username": "",
+      "password": "",
+      "use_current_ip": true,
+      "manual_ip": "",
+      "interval": 600,
+      "auto": false,
+      "active": false
+    },
+    {
+      "hostname": "",
+      "username": "",
+      "password": "",
+      "use_current_ip": true,
+      "manual_ip": "",
+      "interval": 600,
+      "auto": false,
+      "active": false
+    },
+    {
+      "hostname": "",
+      "username": "",
+      "password": "",
+      "use_current_ip": true,
+      "manual_ip": "",
+      "interval": 600,
+      "auto": false,
+      "active": false
+    }
+  ]
+}
