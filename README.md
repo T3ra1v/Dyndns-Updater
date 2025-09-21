@@ -1,2 +1,2 @@
 # Dyndns-Updater
-Dyndns Program for Strato 
+Dyndns Program only for Strato 
